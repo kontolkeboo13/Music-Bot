@@ -21,9 +21,9 @@ REPO_TEXT = """Source code this bot
 Source code: [Github](https://github.com/)
 License: [ GPL-3.0 License](https://github.com/Kry9toN/KryPtoN-Music-Bot/blob/master/LICENSE.md)"""
 
-DONATION_TEXT = """♥️Donation List♥️
-Indonesia:
-[Saweria](https://saweria)
-Internasional:
-[Paypal](https://www.paypal.me)
-"""
+OWNER = """♥️ developer ♥️
+
+[here](https://t.me/Lerrdab)
+
+
+
