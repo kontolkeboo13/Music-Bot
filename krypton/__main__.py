@@ -69,7 +69,7 @@ async def ping(_, message):
     msg = await send('`Pong!`')
     end = datetime.now()
     latency = (end - start).microseconds / 1000
-    await msg.edit(f"**Pong!**\n`{latency} ms`")
+    await msg.edit(f"**🙆Pong!!!**\n`{latency} ms`")
 
 @app.on_message(filters.text & cmd_filter('donation'))
 async def donation(_, message):
